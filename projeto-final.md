@@ -37,7 +37,7 @@ A aplicação final deverá conter três telas principais:
 
 - **Funcionalidades:**
   - Exibição de uma lista de produtos obtidos da Fake Store API.
-  - Opção para filtrar e ordenar produtos.
+  - Opção para filtrar e ordenar produtos. (Extra)
   - Adicionar produtos ao carrinho com quantidade desejada.
 
 - **Regras:**
